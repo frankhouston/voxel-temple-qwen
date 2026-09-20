@@ -2,6 +2,12 @@
 
 > 177B parameter MoE model on M1 Max 64GB fixes a broken Three.js voxel temple
 
+## Preview
+
+![Qwen 3.8 Flash M1 Max 64GB](qwen-3.8-flash-m1-max-64gb.gif)
+
+*Qwen3.8-Flash-Next V3 rendering the 7-tier voxel temple in real-time. The model ran on an M1 Max with 64GB RAM, serving fixes to broken Three.js code via the llama.cpp HTTP API.*
+
 ## Quick Start
 
 ```bash
